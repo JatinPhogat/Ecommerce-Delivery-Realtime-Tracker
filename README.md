@@ -158,7 +158,7 @@ Ecommerce-Delivery-Realtime-Tracker/
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 ### Socket.io Event Flow
 
